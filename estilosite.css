@@ -1,0 +1,45 @@
+.alisauskas {
+    background-color: brown;
+    scroll-padding-top: 100px;
+
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Andika', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+    font-size: 100px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+
+}
+
+img {
+    width: 100%;
+    position: center;
+}
+p {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+
+p2 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: burlywood;
+    display: flex;
+    justify-content: center;
+}
+
+
+
