@@ -1,3 +1,4 @@
+
 .alisauskas {
     background-color: brown;
     scroll-padding-top: 100px;
@@ -5,8 +6,9 @@
 }
 
 body {
+    background-image: url("https://imageproxy.wolt.com/venue/65649f38d750e4643c883f83/b638f152-d345-11ee-b62a-6ec26134f011_fd436250_982e_11ee_9ac5_6ed35a7a8561_bk_hero__1_.jpg") ;
+    
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font
     display: flex;
     justify-content: center;
 }
@@ -33,12 +35,34 @@ p {
 }
 
 p2 {
-    font-family: 'Arial Narrow Bold', sans-serif;
+    font-family: 'Trebuchet MS','Arial Narrow Bold', sans-serif;
     font-size: 45px;
     font-weight: 600;
     color: burlywood;
     display: flex;
     justify-content: center;
+}
+
+.email {
+    background-color: white;
+}
+
+h2 {
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, serif;
+    font-size: 80px;
+    font-weight: 900;
+}
+
+label {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    position: ;
+}
+
+textarea {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+    position: center;
 }
 
 
